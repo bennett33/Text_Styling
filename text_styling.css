@@ -1,0 +1,23 @@
+h1 {
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+}
+h2 {
+    background-color: rebeccapurple;
+    color: white;
+    font-family: sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+h3 {
+    background-color: rgb(112, 168, 251);
+    color: navy;
+    font-family: sans-serif;
+    text-align: right;
+    text-decoration: underline navy;
+}
+a {
+    color:navy
+}
